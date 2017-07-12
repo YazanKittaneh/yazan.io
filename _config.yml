@@ -1,7 +1,7 @@
 # Site
-title: Yazan
-description: Software Developer, Entrepreneur, Musician
-url: https://yazan.io
+title: Halve
+description: Stylish, Two-Column Jekyll Theme
+url: https://taylantatli.github.io/Halve
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -29,15 +29,15 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-email:             yazanakittaneh@gmail.com
+#email:             email
 #google.plus:        username
-#twitter:            username
+twitter:            username
 #facebook:           username
-github:             yazankittaneh
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           yazankittaneh
+github:             username
+stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#linkedin:          username
 #xing:              username
-instagram:          chicagosubletinn
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
@@ -52,7 +52,7 @@ instagram:          chicagosubletinn
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-#behance:           username
+behance:           username
 
 # Gems
 gems:
