@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Launch of the website!"
-date:   2017-07-13
+date:   2017-07-12
 excerpt: "Start of something new"
 tag:
 - jekyll
