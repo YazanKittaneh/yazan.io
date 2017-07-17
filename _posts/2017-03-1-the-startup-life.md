@@ -8,6 +8,7 @@ tag:
 - vloging
 - entrepreneur
 - projects
+- The Story So Far
 ---
 
 How badly would you love to look into Steve Job’s life as he was building Apple? How about Elon Musk as he was building PayPal?
