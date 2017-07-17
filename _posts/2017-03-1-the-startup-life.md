@@ -2,7 +2,7 @@
 layout: post
 title:  "The startup life Snapchat"
 date:   2017-03-01
-excerpt: "How much would you love a peek into Steve Job’s life..."
+excerpt: "How badly would you love to look into Steve Job’s life as he was building Apple?"
 tag:
 - Snapchat
 - vloging
@@ -10,7 +10,7 @@ tag:
 - projects
 ---
 
-How much would you love a peek into Steve Job’s life as he was building Apple? How about Elon Musk as he was building PayPal?
+How badly would you love to look into Steve Job’s life as he was building Apple? How about Elon Musk as he was building PayPal?
 
 Hold up! I’m not saying I’ll be them 100%! But if I was, wouldn’t you wish you followed my story?
 
@@ -20,21 +20,21 @@ Well, what else is there? Interviews recounting the creation of a startup (ala B
 
 Well I’m chugging along through this blank space currently, so I might as well share it!
 
-##The effect on me
+## The effect on me
 
 It’s like I have my own non-personal entrepreneur diary. And like a diary, I need to force myself to put all I have onto the platform or it will be useless. This means I have to force myself to be transparent and keep pushing out interesting content. A tall order. As a result, I am building a group of people beside me that can share advice or lend their hand as they are seeing the story unfold.
 
 “What does that blank space look like?” Well…me.
 
-##The effect on you
+## The effect on you
 
 The word entrepreneur shows it’s head every chance it gets. By now you probably think anyone who calls themselves entrepreneurs are full of shit, right? And by now, you probably think you are more ‘entrepreneur’ than the rest. So in some sense, you can use me as your baseline to measure how you are doing. I’m not saying I’m what an entrepreneur should look like, but this can be a wake-up call. Otherwise, it could assure you that you aren’t alone in your struggles. I will try to put my fears into these Snaps, so in some cases you might be able to relate. Otherwise, you can just enjoy the ride!
 
-##This is not a show
+## This is not a show
 
 I have to stress this. This SnapChat isn’t to entertain mountains of people. I won’t show you getting a Ferrari, or getting million dollar validations every other day. Less than 10% of startups are successful. I am a reference, not a guide. My hope is not that you will copy me because I can be in that 90%. My hope is that this lets you reflect on your own path by comparing it to someone’s.
 
-##The story so far… (as of March 1st 2017)
+## The story so far… (as of March 1st 2017)
 
 I’m cultivating two companies:
 
@@ -52,7 +52,7 @@ Livio is taking the SnapChat spotlight occasionally when he is at a great event 
 
 I’ll keep this part of the post updated with recap paragraphs.
 
-##Future
+## Future
 
 I might not be the winner. GaryV mentioned a concept like this in one of his DailyVee’s so there might be a flood of people like me very soon. All I can say is I’m doing what I feel is right. I’ve followed countless other “entrepreneurs” and all I see is travel updates and the occasional selfie with someone. Boring. I hope I can be a little 40 second wake-up call for you. If not, I hope to hear your criticism.
 
