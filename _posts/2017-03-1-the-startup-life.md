@@ -35,7 +35,7 @@ The word entrepreneur shows it’s head every chance it gets. By now you probabl
 
 I have to stress this. This SnapChat isn’t to entertain mountains of people. I won’t show you getting a Ferrari, or getting million dollar validations every other day. Less than 10% of startups are successful. I am a reference, not a guide. My hope is not that you will copy me because I can be in that 90%. My hope is that this lets you reflect on your own path by comparing it to someone’s.
 
-## The story so far… (as of March 1st 2017)
+## The story so far… (as of March 1st 2016)
 
 I’m cultivating two companies:
 
