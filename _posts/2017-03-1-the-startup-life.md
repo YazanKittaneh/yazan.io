@@ -11,6 +11,8 @@ tag:
 - The Story So Far
 ---
 
+{% raw %}<img src="{{ site.url }}/images/thestartuplife.png" alt="">{% endraw %}
+
 How badly would you love to look into Steve Job’s life as he was building Apple? How about Elon Musk as he was building PayPal?
 
 Hold up! I’m not saying I’ll be them 100%! But if I was, wouldn’t you wish you followed my story?
