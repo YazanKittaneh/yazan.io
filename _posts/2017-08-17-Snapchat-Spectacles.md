@@ -16,6 +16,8 @@ tag:
 Firstly, Casey Neistat was all over the Google glass as one of his favorite pieces of video equipment:
 <iframe width="640" height="360" src="https://www.youtube.com/watch?v=k9-ekDhkCn0&t=188s" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/l2Of1-d5E5o?controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 With all hype, I'm surprised he hasn't picked up Spectacles (or at least I cannot find any time where he walks about them).
 
 Anyway, I think this device is a great way to story tell and has a bunch of potential with storytelling. I'm pretty excited to use them with @TheStartupLife and look really stupid using sunglasses indoors. Welp.
