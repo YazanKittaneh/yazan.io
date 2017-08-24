@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Snapchat Spectacles"
-date:   2017-03-01
+date:   2017-08-17
 excerpt: "and why I bought them"
 tag:
 - Snapchat
