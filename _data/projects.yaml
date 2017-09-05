@@ -25,7 +25,7 @@
 
 - title: We-tinerary
   url: http://subletinn.com
-  image: https://s3.us-east-2.amazonaws.com/yazan.io/wetinerary1.png
+  image: https://s3.us-east-2.amazonaws.com/yazan.io/wetinerary2.png
   completed: true
 
 - title: Grinnell Events
@@ -40,5 +40,5 @@
 
 - title: Loggia
   url: https://github.com/YazanKittaneh/Loggia_Android
-  image:
+  image: https://s3.us-east-2.amazonaws.com/yazan.io/loggia.jpg
   completed: false
