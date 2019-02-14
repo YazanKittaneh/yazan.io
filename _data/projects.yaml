@@ -3,10 +3,20 @@
   image: https://static1.squarespace.com/static/56ed557d07eaa0e20bf74ab4/56ed55b8b654f97ab4fac8e7/56ed56b4a3360c829bb7fbc0/1495586359903/IMG_5077.JPG?format=2500w
   completed: true
 
+- title: Handyskilled
+  url: https://Handyskilled.com
+  image: https://static1.squarespace.com/static/5a8d1660268b969612983ff5/t/5bfc411d1ae6cf43c2c48507/1548097698794/jpg-15.jpg?format=750w
+  completed: true
+
+- title: Noble Alumni Association
+  url: https://nobleschools.org/alumni/alumni-association/
+  image: https://nobleschools.org/wp-content/uploads/2019/02/20180719_164317.jpg
+  completed: true
+
 - title: In Good Company Dept.
   url: http://ingoodcompanydept.com
   image: https://d33wubrfki0l68.cloudfront.net/images/667aacea2b5dff507a5fd4d6523327fbb210fd38/banner.jpg
-  completed: true
+  completed: false
 
 - title: The Startup Life
   url: https://www.snapchat.com/add/thestartuplife
@@ -16,7 +26,7 @@
 - title: The Grinnellian
   url: http://subletinn.com
   image: https://static1.squarespace.com/static/56ed557d07eaa0e20bf74ab4/56ed55b8b654f97ab4fac8e7/56ed56b4a3360c829bb7fbc0/1495586359903/IMG_5077.JPG?format=2500w
-  completed: false
+  completed: true
 
 - title: Grinnell Publications
   url: http://subletinn.com
