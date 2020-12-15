@@ -12,7 +12,7 @@ The following are some stylings I used to match the [Jotform.com](https://jotfor
 
 Implemented in [Handyskilled.com](https://handyskilled.com).
 
-```html
+```CSS
 .form-all {
     /* border : 1px solid #dcdcdc;
     */
