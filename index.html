@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <title>Yazan Kittaneh • Personal Blog</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Welcome to the directory! This is a collection of my work, useful tools, and interesting links surounding ech, AI, Real Estate, Social and Civic Equality"
+    />
+    <meta
+      name="keywords"
+      content="real estate, design thinking, AI Training, usability, "
+    />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Font Awesome -->
+    <link href="fontawesome/css/all.min.css" type="text/css" rel="stylesheet" />
+
+    <link rel="stylesheet" type="text/css" href="main.css" />
+    <link rel="icon" type="image/png" href="M2.png" />
+
+    <script src="config.js"></script>
+
+    <!-- Load React. -->
+    <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
+    <script>
+      if (location.hostname === MAX.productionHostname) {
+        document.write(
+          '<script src="react/react.production.min.js"><\/script>' +
+            '<script src="react/react-dom.production.min.js"><\/script>'
+        );
+      } else {
+        document.write(
+          '<script src="react/react.development.js"><\/script>' +
+            '<script src="react/react-dom.development.js"><\/script>'
+        );
+      }
+    </script>
+
+    <script src="plugins/typewriter.js"></script>
+    <script src="components/init.js"></script>
+    <script src="components/flags-and-icons.js"></script>
+    <script src="components/maxdown.js"></script>
+    <script src="components/section-title.js"></script>
+    <script src="components/util.js"></script>
+  </head>
+  <body>
+    <header></header>
+    <script src="components/header.js"></script>
+    <div id="main">
+      <section class="column column--short">
+        <div class="center">
+          <br />
+          <div id="companies"></div>
+          <script>
+            ReactDOM.render(
+              e(SectionTitle, { text: "Companies" }),
+              document.querySelector("#companies")
+            );
+          </script>
+          <button onclick="window.open('https://www.yaz.toos/', '_blank')">
+            Light Your Face
+          </button>
+          <button onclick="window.open('https://www.subletinn.com', '_blank')">
+            ☕ Subletinn</button
+          ><br />
+          <button onclick="window.open('https://www.yaz.toos/', '_blank')">
+            Light Your Face
+          </button>
+          <button onclick="window.open('https://www.2462.co/', '_blank')">
+            🗞️ 2462.co
+          </button>
+        </div>
+        <div class="center">
+          <br />
+          <div id="tools"></div>
+          <script>
+            ReactDOM.render(
+              e(SectionTitle, { text: "Tools" }),
+              document.querySelector("#tools")
+            );
+          </script>
+          <button onclick="window.open('https://www.yaz.toos/', '_blank')">
+            Light Your Face
+          </button>
+          <button onclick="window.open('https://www.subletinn.com', '_blank')">
+            BetterChatbot</button
+          ><br />
+          <button onclick="window.open('https://www.2462.co/', '_blank')">
+            🗞️ 2462.co
+          </button>
+        </div>
+      </section>
+      <section class="column">
+        <div id="intro-title"></div>
+        <script>
+          ReactDOM.render(
+            e(SectionTitle, { text: "Welcome to the idea dump page. " }),
+            document.querySelector("#intro-title")
+          );
+        </script>
+        <p>
+          I'm passionate about building tools that empower people. I usually
+          build in
+          <span class="highlight-box">Typsescript</span> and
+          <span class="highlight-box">Python</span>. Currenly fixated on
+          <span class="highlight-box">LLMs</span>,
+          <span class="highlight-box">Chat interfaces</span> , and
+          <span class="highlight-box">Civic</span> tech.<br />
+          <br />
+          Also a fan of <span class="highlight-box">Real Estate</span>,
+          specifically <span class="highlight-box">Co-Living</span> and
+          <span class="highlight-box">Equitable ownership</span>
+        </p>
+        <p>
+          I received my B.A, in Computer Science from
+          <a href="https://grinnell.edu/" target="_blank">Grinnell College</a>.
+          I originally went in to be an architect until finding out their
+          architecture program was disolved a year before I got there. lol.
+          After graduating, I worked at Outcome Health as an
+          <span class="highlight-box">Android</span> engineer. Continued on to
+          Subletinn as a <span class="highlight-box">Front-End</span> engineer
+          working with <span class="highlight-box">React.js</span>,
+          <span class="highlight-box">Node.js</span>,
+          <span class="highlight-box">Express.js</span>, and started some
+          backend work. I created Loggia Inc with a few of my engineering
+          friends, honing my skills as a
+          <span class="highlight-box">full-stack</span> developer and
+          <span class="highlight-box">Engineering Manager</span>. <br />
+          After working with amazing clients these past couple years, I'm
+          excited for the next level of my engineering journey. <br />
+          <br />
+          <!-- Currently, as a UX Manager and Knowledge Lead, I take care of user experience and
+                    <span class="highlight-box">user research</span>
+                    in C&A's eCommerce department and beyond. -->
+          I am currently working on
+          <span class="highlight-box">Chat-ui-first designs</span>,
+          <span class="highlight-box">AI/ML Embeddings</span>, and large scale
+          tools for <span class="highlight-box">civic empowerment</span>
+        </p>
+      </section>
+
+      <!--
+                <section class="column">
+                <div id="research"></div>
+                <script src="components/research.js"></script>
+            </section>
+        -->
+      <section class="column column--short">
+        <div id="work"></div>
+        <script src="components/work.js"></script>
+      </section>
+      <section class="column column--short">
+        <div id="open-source"></div>
+        <script src="components/open-source.js"></script>
+      </section>
+      <section class="column column--short">
+        <div id="ai-tools"></div>
+        <script src="components/ai.js"></script>
+      </section>
+      <footer></footer>
+      <script src="components/footer.js"></script>
+    </div>
+  </body>
+</html>
