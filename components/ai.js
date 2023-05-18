@@ -52,7 +52,7 @@ class Ai extends React.Component {
     return e(
       "div",
       null,
-      e(SectionTitle, { text: "Ai Tools" }),
+      e(SectionTitle, { text: "AI Tools" }),
       ...entries,
       e(
         "p",
