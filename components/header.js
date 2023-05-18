@@ -23,8 +23,8 @@ function Logo() {
     );
 
     logoElement = e(
-      "div",
-      null,
+      "a",
+      { href: MAX.header.title.href },
       e("img", {
         src: "./yk.png",
         className: "image",
@@ -35,11 +35,12 @@ function Logo() {
     );
   } else {
     logoElement = e(
-      "div",
-      null,
+      "a",
+      { href: MAX.header.title.href },
       e("img", {
         src: "./yk.png",
         className: "image",
+        href: MAX.header.title.href,
         style: { width: "50px", height: "50px" },
         onMouseEnter: rotate,
         onTouchStart: rotate,
@@ -133,7 +134,7 @@ function Menu() {
 
 class Header extends React.Component {
   render() {
-    return e("div", null, e(Logo), /*e(Title),*/ e(Menu));
+    return e("div", null, e(Logo) /*e(Title), e(Menu)*/);
   }
 }
 

@@ -7,6 +7,7 @@ const MAX = {
   header: {
     logo: {
       img: "./yk.png",
+      href: "index.html",
     },
     title: {
       content: "{Y}azan. {K}ittaneh", // pick TWO letters that should be rotated on hover via {x}
